@@ -1,0 +1,64 @@
+{
+  "elections": [
+    {
+      "id": "mah_assembly_2024",
+      "state": "Maharashtra",
+      "electionType": "Assembly Election",
+      "year": 2024,
+      "phases": [
+        {
+          "phaseNumber": 1,
+          "notificationDate": "2024-09-15T00:00:00Z",
+          "nominationDeadline": "2024-09-22T00:00:00Z",
+          "votingDate": "2024-10-15T00:00:00Z",
+          "resultDate": "2024-10-20T00:00:00Z"
+        }
+      ],
+      "voterRegistrationDeadline": "2024-09-10T00:00:00Z",
+      "officialWebsite": "https://ceo.maharashtra.gov.in"
+    },
+    {
+      "id": "har_assembly_2024",
+      "state": "Haryana",
+      "electionType": "Assembly Election",
+      "year": 2024,
+      "phases": [
+        {
+          "phaseNumber": 1,
+          "notificationDate": "2024-09-05T00:00:00Z",
+          "nominationDeadline": "2024-09-12T00:00:00Z",
+          "votingDate": "2024-10-01T00:00:00Z",
+          "resultDate": "2024-10-04T00:00:00Z"
+        }
+      ],
+      "voterRegistrationDeadline": "2024-08-30T00:00:00Z",
+      "officialWebsite": "https://ceoharyana.gov.in"
+    },
+    {
+      "id": "del_assembly_2025",
+      "state": "Delhi",
+      "electionType": "Assembly Election",
+      "year": 2025,
+      "phases": [
+        {
+          "phaseNumber": 1,
+          "notificationDate": "2025-01-10T00:00:00Z",
+          "nominationDeadline": "2025-01-17T00:00:00Z",
+          "votingDate": "2025-02-08T00:00:00Z",
+          "resultDate": "2025-02-11T00:00:00Z"
+        }
+      ],
+      "voterRegistrationDeadline": "2024-12-30T00:00:00Z",
+      "officialWebsite": "https://ceodelhi.gov.in"
+    },
+    {
+      "id": "national_lok_sabha_2029",
+      "state": "National",
+      "electionType": "Lok Sabha",
+      "year": 2029,
+      "phases": [],
+      "voterRegistrationDeadline": "2029-03-01T00:00:00Z",
+      "officialWebsite": "https://eci.gov.in"
+    }
+  ]
+}
